@@ -1,0 +1,14 @@
+# Keylogger
+
+NOTE : To run the executable file:
+
+-> Disable windows defender
+
+-> Disable any anti-virus program
+
+-> Disable the firewall
+
+
+To install the requirements for the code run the command: pip install -r requirements.txt
+
+Then simply run the python code to see the output.
